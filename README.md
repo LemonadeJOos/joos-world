@@ -1,3 +1,5 @@
 # joos-world
+
 first of many
-i love video :games:
+
+i love video games
